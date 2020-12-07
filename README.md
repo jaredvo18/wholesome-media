@@ -1,2 +1,2 @@
 # wholesome-memes
-Wholesome memes, videos, pictures and media to lift your spirits and keep you going through life.
+Project by Jared VanOeffelen to spread wholesome media to lift the world's spirits!
