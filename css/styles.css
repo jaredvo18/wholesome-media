@@ -1,0 +1,57 @@
+/*** TAG SELECTORS ***/
+body {
+  background-color: #34626c;
+  margin: 0;
+}
+
+h1 {
+  color: #c6b497;
+  font-family: 'Courgette', cursive;
+  font-size: 70px;
+}
+
+h2 {
+  color: #cfd3ce;
+  font-family: 'Oswald', sans-serif;
+  font-size: 55px;
+}
+
+p {
+  color: #cfd3ce;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+
+a {
+  color: #c6b497;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+/*** CLASS SELECTORS ***/
+.top-container {
+  text-align: center;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.nav-bar {
+  background-color: #839b97;
+  height: 65px;
+}
+
+.article {
+  background-color: #fff3b2;
+  padding: 20px;
+  text-align: left;
+}
+
+/*** ID SELECTORS ***/
